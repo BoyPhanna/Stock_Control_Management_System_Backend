@@ -1,0 +1,6 @@
+fastapi[standart]
+sqlalchemy
+pydantic
+python-dotenv
+psycopg2
+psycopg2-binary
